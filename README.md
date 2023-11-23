@@ -84,7 +84,5 @@ implementasi penyimpanan awan menggunakan Nextcloud pada mesin virtual di bidang
 > Dina Amilia		008
 > Awwalia Arofatun 	030
 > Yusi Eka Sonia F.	040
-##### Kolaborator sistem :
-> yogaputrarm
-> CyberAvatarr 
+
 
