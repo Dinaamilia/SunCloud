@@ -1,4 +1,4 @@
-# Suncloud
+# Suncloud ![ico](image/sun4.ico)
 <h1 align="center">IMPLEMENTASI PENYIMPANAN AWAN MENGGUNAKAN NEXTCLOUD PADA VIRTUAL MACHINE DI BIDANG PENDIDIKAN</h1>
 <h3 align="center"> Suncloud based nextcloud on virtual machine </h3>
 
@@ -83,6 +83,8 @@ Pada tahapan ini akan dilakukan pengujian terhadap aktivitas dalam jaringan sist
 ## Kesimpulan
 Implementasi penyimpanan awan menggunakan Nextcloud pada mesin virtual di bidang pendidikan adalah langkah yang bermanfaat dan relevan. Hal ini memungkinkan akses data yang mudah, kolaborasi yang lebih baik, dan manajemen data yang lebih efisien.   Dengan demikian, teknologi ini memiliki potensi untuk memperkaya pengalaman pendidikan dan memungkinkan lembaga pendidikan untuk mengoptimalkan sumber daya mereka.
 
+### Anda dapat mengunjungi URL Situs ini :
+🌐[suncloud.sytes.net](http://suncloud.sytes.net/nextcloud)
 
 ##### Sistem ini disusun oleh :
  > Yoga Putra R. 043 | 
@@ -90,6 +92,6 @@ Implementasi penyimpanan awan menggunakan Nextcloud pada mesin virtual di bidang
  > Dina Amilia	008 |
  > Awwalia Arofatun 030 |
  > Yusi Eka Sonia F. 040
-##### S1 Pendidikan Teknologi Informasi UNESA
+##### 🌐[S1 Pendidikan Teknologi Informasi UNESA](https://pendidikan-ti.ft.unesa.ac.id/)
 
 
