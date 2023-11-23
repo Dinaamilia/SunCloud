@@ -37,7 +37,7 @@ Pada tahapan konfigurasi penyimpanan awan kami menggunakan nextcloud pada linux 
 ![alt text](https://github.com/Dinaamilia/Sun-Cloud/blob/main/konfig%20router%202.png?raw=true)
 - Selanjutnya centang kolom enable agar port aktif. Kemudian isi kolom Name sesuai dengan kebutuhan, Pada kolom Protocol pilih TCP. Pada WAN Port Start dan WAN Port End isi dengan angka 80. Pada LAN Host IP Address isi dengan alamat IP Server nextcloud, kemudian pada LAN Port Start dan LAN Port End isi dengan angka 80, kemudian klik Add.
 ![alt text](https://github.com/Dinaamilia/Sun-Cloud/blob/main/konfig%20router%203.png?raw=true)
-# Konfigurasi DNS menggunakan No-IP
+## Konfigurasi DNS menggunakan No-IP
 - Buka situs www.noip.com melalui browser. Kemudian masuk dengan akun yang telah didaftarkan.
 ![alt text](https://github.com/Dinaamilia/Sun-Cloud/blob/main/konfig%20DNS%201.png?raw=true)
 - Pilih menu Dynamic DNS, kemudian pilih No-IP Hostnames. Kemudian klik Create Hostname untuk membuat hostname baru.
