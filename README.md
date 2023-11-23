@@ -26,10 +26,10 @@ sistem ini dibangun menggunakan :
 -   Oracle VM Virtual Box
 
 
-## Tahap Konfigurasi Penyimpanan Awan
+# Tahap Konfigurasi Penyimpanan Awan
 Pada tahapan konfigurasi penyimpanan awan kami menggunakan nextcloud pada linux ubuntu yang dijalankan melalui virtual machine agar sistem penyimpanan bisa diakses melalui jaringan internet atau public.
 
-# Konfigurasi Router Indihome 
+## Konfigurasi Router Indihome 
 
 - Masuk ke pengaturan router Indihome dengan mengakses alamat IP router melalui browser
 ![alt text](https://github.com/Dinaamilia/Sun-Cloud/blob/main/konfig%20router%201.png?raw=true)
@@ -75,13 +75,13 @@ Pada tahapan ini akan dilakukan pengujian terhadap aktivitas dalam jaringan sist
 - Pengguna juga dapat memutar media pada nextcloud. 
 ![alt text](https://github.com/Dinaamilia/Sun-Cloud/blob/main/pengujian%205.png?raw=true)
 
-implementasi penyimpanan awan menggunakan Nextcloud pada mesin virtual di bidang pendidikan adalah langkah yang bermanfaat dan relevan. Hal ini memungkinkan akses data yang mudah, kolaborasi yang lebih baik, dan manajemen data yang lebih efisien. Dengan demikian, teknologi ini memiliki potensi untuk memperkaya pengalaman pendidikan dan memungkinkan lembaga pendidikan untuk mengoptimalkan sumber daya mereka.
+implementasi penyimpanan awan menggunakan Nextcloud pada mesin virtual di bidang pendidikan adalah langkah yang bermanfaat dan relevan. Hal ini memungkinkan akses data yang mudah, kolaborasi yang lebih baik, dan manajemen data yang lebih efisien.   Dengan demikian, teknologi ini memiliki potensi untuk memperkaya pengalaman pendidikan dan memungkinkan lembaga pendidikan untuk mengoptimalkan sumber daya mereka.
 
 
 ##### Sistem ini disusun oleh :
-> Yoga Putra R.		21050974043
-> Arju Kurnia		21050974029
-> Dina Amilia		21050974008
-> Awwalia Arofatun 	21050974030
-> Yusi Eka Sonia F.	21050974040
+> Yoga Putra R.		043
+> Arju Kurnia		029
+> Dina Amilia		008
+> Awwalia Arofatun 	030
+> Yusi Eka Sonia F.	040
 
