@@ -21,18 +21,22 @@ SunCloud merupakan sebuah sistem yang dibuat untuk memberikan layanan penyimpana
 
 ## Tools
 Sistem ini dibangun menggunakan : 
-- Sebuah laptop
+- Laptop untuk Server
 - Domain Name Server 
 - Laptop Client 
 - Mouse 
 - Keyboard 
-- Lynux operating system (Ubuntu Server) 
+- Linux operating system (Ubuntu Server) 
 - PHP 
 - PostgreSQL  
 - Next Cloud
 - Oracle VM Virtual Box
 
 ## Langkah-langkah : 
+### Bahan :
+   - Nextcloud : [nextcloud](https://download.nextcloud.com/)
+   - Oracle VM Virtual Box : [virtual box](https://www.virtualbox.org/wiki/Downloads)
+     
 ### Tahap Konfigurasi Penyimpanan Awan
 Pada tahapan konfigurasi penyimpanan awan kami menggunakan nextcloud pada linux ubuntu yang dijalankan melalui virtual machine agar sistem penyimpanan bisa diakses melalui jaringan internet atau public.
 
